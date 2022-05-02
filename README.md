@@ -1,4 +1,4 @@
 # csam
 rs
-Part of the code display, complete the code will be soon uploaded.
-Some run logs are displayed.
+Part of the code display, the complete  code will be soon uploaded.
+Some running logs are displayed.
